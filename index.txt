@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>My Git</title>
-</head>
-<h1>You made it!</h1>
-<p>Your GitHub page is up and running!</p>
-</html>
-
